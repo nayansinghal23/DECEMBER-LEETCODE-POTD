@@ -1,9 +1,9 @@
 /*
 POINTS TO BE NOTED
 
-If both the given strings are of different length then answer will always be false.
-If any character of string1 is not present in string2 or any character of string2 is not present in string1 then also answer will be false.
-If the frequencies of string1 vary with the frequencies of string2 then also answer will be false.
+1) If both the given strings are of different length then answer will always be false.
+2) If any character of string1 is not present in string2 or any character of string2 is not present in string1 then also answer will be false.
+3) If the frequencies of string1 vary with the frequencies of string2 then also answer will be false.
 */
 
 
